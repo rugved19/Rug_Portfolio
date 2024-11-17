@@ -285,7 +285,7 @@ section{
 .skills .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-    gap:7rem;
+    gap:7.5rem;
     padding-left: 7px;
     padding-right: 7px;
 }
