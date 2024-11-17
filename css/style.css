@@ -285,9 +285,9 @@ section{
 .skills .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-    gap:2rem;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    gap:1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 .skills .box-container .box{
